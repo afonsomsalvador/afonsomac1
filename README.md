@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <div>
-  <a href="https://github.com/RodrigoBarata%22%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigobarata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobarata&layout=compact&langs_count=16&theme=dracula%22/%3E
+  <a href="https://github.com/afonsomac1"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afonsomac1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomac1&layout=compact&langs_count=16&theme=dracula%22/%3E
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Barata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
