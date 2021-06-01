@@ -1,4 +1,4 @@
-### Skills
+### Student by day, programmer by night.
 
  <div>
   <a href="https://github.com/afonsomac1">
