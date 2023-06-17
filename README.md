@@ -40,7 +40,14 @@ Vamos criar o futuro com linhas de código! ✨
 <a href="https://www.linkedin.com/in/afonso-salvador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     <a href = "mailto: afonso.macedo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-  
+
+## ⏰ [Modern TimePicker](https://github.com/afonsomsalvador/react-native-modern-time-picker): Facilita a seleção de horas nas tuas aplicações
+<p align="center">
+  <img src="link-para-imagem-do-TimePicker" alt="Moderrn TimePicker" width="300" />
+</p>
+O TimePicker é a solução perfeita para tornar a seleção de horas uma tarefa simples e intuitiva. Com ele, os utilizadores podem escolher horas de forma rápida e precisa, adicionando uma camada extra de usabilidade aos seus projetos.
+</br>
+
 ## **Languages:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
