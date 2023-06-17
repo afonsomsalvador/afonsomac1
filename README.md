@@ -25,7 +25,7 @@ export default afonsoSalvador;
 ```
 
 </br>
-No meu perfil do GitHub, podes encontrar uma coleção de projetos que variam desde apps móveis até bibliotecas e componentes reutilizáveis. Estou sempre a explorar novas tecnologias e práticas recomendadas para aprimorar minhas habilidades.
+No meu perfil do GitHub, podes encontrar uma coleção de projetos que variam desde apps móveis até bibliotecas e componentes reutilizáveis. Estou sempre a explorar novas tecnologias e práticas recomendadas para aprimorar as minhas habilidades.
 </br>
 </br>
 🤝 Vamos nos conectar? Não hesites em entrar em contato comigo para discutir projetos, ideias ou apenas para dizer olá! 
