@@ -7,7 +7,7 @@
 🚀 Estou em busca de novas oportunidades de colaboração e projetos interessantes para contribuir.</br>
 🌟 Possuo habilidades em JavaScript, React, Redux, CSS, HTML, Git, entre outras...</br>
 
-<img src="https://media.giphy.com/media/3pHrwP0Lg9t8NqiLWY/giphy.gif" align="right" width="240">
+<img src="https://media.giphy.com/media/3pHrwP0Lg9t8NqiLWY/giphy.gif" align="right" width="200">
 
 ```typescript
 
