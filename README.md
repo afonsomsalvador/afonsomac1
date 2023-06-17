@@ -71,6 +71,12 @@ Vamos criar o futuro com linhas de código! ✨
 O TimePicker é a solução perfeita para tornar a seleção de horas uma tarefa simples e intuitiva. Com ele, os utilizadores podem escolher horas de forma rápida e precisa, adicionando uma camada extra de usabilidade aos seus projetos.
 </br>
 
+<table align="right">
+   <tr>
+      <td><img src="/docs/ezgif.com-crop.gif" alt="React Native Modern Time Picker" height="500px" style="margin-right:10px" /></td>
+   </tr>
+</table>
+
 ## ✨ Testimonials
         
 <table>
