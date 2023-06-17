@@ -42,9 +42,7 @@ Vamos criar o futuro com linhas de código! ✨
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 ## ⏰ [Modern TimePicker](https://github.com/afonsomsalvador/react-native-modern-time-picker): Facilita a seleção de horas nas tuas aplicações
-<p align="center">
-  <img src="link-para-imagem-do-TimePicker" alt="Moderrn TimePicker" width="300" />
-</p>
+
 O TimePicker é a solução perfeita para tornar a seleção de horas uma tarefa simples e intuitiva. Com ele, os utilizadores podem escolher horas de forma rápida e precisa, adicionando uma camada extra de usabilidade aos seus projetos.
 </br>
 
