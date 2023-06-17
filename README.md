@@ -13,13 +13,11 @@
 
 interface Profile {
   name: string;
-  primarySkillset: string;
   languages: string[];
 }
 
 const afonsoSalvador: Profile = {
   name: "Afonso Salvador",
-  primarySkillset: "Backend",
   languages: ["Javascript", "React Native", "Typescript", "Redux", "REST API"],
 };
 
