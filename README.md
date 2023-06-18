@@ -5,7 +5,7 @@
 </br>
 💻 I have a particular passion for mobile app development using React Native.</br>
 🚀 I am looking for new collaboration opportunities and interesting projects to contribute.</br>
-🌟 I have skills in JavaScript, React, Redux, CSS, HTML, Git, among others...</br>
+🌟 I have skills in Typescript, React Native, Redux, CSS, HTML, Git, among others...</br>
 
 <img src="https://media.giphy.com/media/3pHrwP0Lg9t8NqiLWY/giphy.gif" align="right" width="220">
 
