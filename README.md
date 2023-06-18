@@ -1,11 +1,11 @@
-### 👋 Olá, sou o Afonso Salvador! 👨‍💻 
+### 👋 Hello, I'm Afonso Salvador! 👨‍💻 
 
-🌟 Bem-vindo ao meu perfil do GitHub!
+🌟 Welcome to my GitHub profile!
 </br>
 </br>
-💻 Tenho uma paixão especial pelo desenvolvimento de aplicações móveis usando React Native.</br>
-🚀 Estou em busca de novas oportunidades de colaboração e projetos interessantes para contribuir.</br>
-🌟 Possuo habilidades em JavaScript, React, Redux, CSS, HTML, Git, entre outras...</br>
+💻 I have a particular passion for mobile app development using React Native.</br>
+🚀 I am looking for new collaboration opportunities and interesting projects to contribute.</br>
+🌟 I have skills in JavaScript, React, Redux, CSS, HTML, Git, among others...</br>
 
 <img src="https://media.giphy.com/media/3pHrwP0Lg9t8NqiLWY/giphy.gif" align="right" width="220">
 
@@ -25,15 +25,15 @@ export default afonsoSalvador;
 ```
 
 </br>
-No meu perfil do GitHub, podes encontrar uma coleção de projetos que variam desde apps móveis até bibliotecas e componentes reutilizáveis. Estou sempre a explorar novas tecnologias e práticas recomendadas para aprimorar as minhas habilidades.
+On my GitHub profile, you can find a collection of projects ranging from mobile apps to reusable libraries and components. I'm always exploring new technologies and best practices to enhance my skills.
 </br>
 </br>
-🤝 Vamos nos conectar? Não hesites em entrar em contato comigo para discutir projetos, ideias ou apenas para dizer olá! 
-Estou sempre aberto a novas oportunidades e colaborações. </br></br>Conecta-te comigo no LinkedIn e vamos construir algo incrível juntos!
+🤝 Let's connect? Don't hesitate to get in touch with me to discuss projects, ideas or just to say hello! 
+I am always open to new opportunities and collaborations. </br></br>Connect with me on LinkedIn and let's build something amazing together!
 
 </br>
 </br>
-Vamos criar o futuro com linhas de código! ✨
+Let's create the future with lines of code! ✨
 </br>
 </br>
 
@@ -61,9 +61,8 @@ Vamos criar o futuro com linhas de código! ✨
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
   
-## ⏰ [Modern TimePicker](https://github.com/afonsomsalvador/react-native-modern-time-picker): Facilita a seleção de horas nas tuas aplicações
-
-O TimePicker é a solução perfeita para tornar a seleção de horas uma tarefa simples e intuitiva. Com ele, os utilizadores podem escolher horas de forma rápida e precisa, adicionando uma camada extra de usabilidade aos seus projetos.
+## ⏰ [Modern TimePicker](https://github.com/afonsomsalvador/react-native-modern-time-picker): Facilitates the selection of times in your applications
+TimePicker is the perfect solution to make time selection a simple and intuitive task. With it, users can pick times quickly and accurately, adding an extra layer of usability to their projects.
 </br>
 
 
