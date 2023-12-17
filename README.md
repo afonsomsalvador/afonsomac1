@@ -66,22 +66,6 @@ TimePicker is the perfect solution to make time selection a simple and intuitive
 </br>
 
 
-
-## ✨ Testimonials
-        
-<table>
-  <tr>
-    <th>Author</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://www.linkedin.com/in/pintore/">Renato Pinto</a></td>
-    <td>I have been following Afonso in his early professional and academic career, it was with great surprise that I came across a young man with well structured procedures, a passionate Technology, his tendency for detail, the analysis of possible events that impact the creative and planning process made in detail impressed by the still "tender" path taken by him. 
-The Enrich Life project is factual proof of what I mention above, a project outside "the box" with basis and method in both planning and development, alias a winning project already awarded which proves that we are facing a young man of enormous potential and capacity, another added value, The clear way he expresses himself technically and in terms of ideas makes it possible to understand his reasoning in a clear way and to understand the concept(s) he intends to follow or implement, he has a strong capacity of dedication and always has in mind the fulfilment of objectives that nowadays is fundamental more than ever in such a dynamic economy/world.
-I have no doubt that it will evolve but at present it is undoubtedly a Solid asset in any project or organization.</td>
-  </tr>
-</table>
-
 <div align="center">
     <a href="https://www.buymeacoffee.com/afonsomsalvador" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
     </a>
