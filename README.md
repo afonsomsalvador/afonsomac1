@@ -24,7 +24,7 @@ const afonsoSalvador: Profile = {
 
 export default afonsoSalvador;
 ```
-![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=afonsomsalvador&color=lightgrey&style=plastic&abbreviated=true)
 
 </br>
 On my GitHub profile, you can find a collection of projects ranging from mobile apps to reusable libraries and components. I'm always exploring new technologies and best practices to enhance my skills.
