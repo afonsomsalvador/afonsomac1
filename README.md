@@ -51,12 +51,11 @@ If you want to support my work, you can follow or contact me:
 
 ## Github Stats
 
-<div style="display: inline-block;">
-    <img width="470" src="https://github-readme-stats.vercel.app/api?username=afonsomsalvador&show_icons=true&theme=github_dark&include_all_commits=true"/>
+<div style="flex-direction: row">
+<img src="https://github-readme-stats.vercel.app/api?username=afonsomsalvador&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" style="width: 470px; display: inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomsalvador&layout=compact&theme=github_dark&langs_count=15" alt="Top Languages" style="height: 200px; width: 400px; display: inline-block;">
 </div>
-<div style="display: inline-block;">
-    <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomsalvador&layout=compact&theme=github_dark&langs_count=15" />
-</div>
+
 
 </div>
 
