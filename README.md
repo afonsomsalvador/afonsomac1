@@ -51,16 +51,7 @@ If you want to support my work, you can follow or contact me:
 
 ## Github Stats
 
-<table>    
-<tr>
-  <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=afonsomsalvador&show_icons=true&theme=synthwave&include_all_commits=true" />
-  </td>
-  <td align="center">
-    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomsalvador&layout=compact&theme=synthwave&langs_count=15" /> 
-  </td>
-</tr>
-</table>
+<img width="470" src="https://github-readme-stats.vercel.app/api?username=afonsomsalvador&show_icons=true&theme=github_dark&include_all_commits=true"/><img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomsalvador&layout=compact&theme=github_dark&langs_count=15" />
 </div>
 
 ## Latest Medium Posts
