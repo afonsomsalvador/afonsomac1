@@ -62,6 +62,19 @@ If you want to support my work, you can follow or contact me:
 </table>
 </div>
 
+## Latest Medium Posts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://medium.com/@afonsomsalvador/next-level-for-your-github-profile-c0af5f1b522c">
+        <img src="https://github.com/afonsomsalvador/afonsomsalvador/assets/58223413/bb44d5ea-3d3d-49aa-9055-cadb6385144a" alt="Next Level For Your GitHub Profile" style="width:200px;height:200px;">
+      </a>
+    </td>
+    
+  </tr>
+</table>
+
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
   
 ## ⏰ [Modern TimePicker](https://github.com/afonsomsalvador/react-native-modern-time-picker): Facilitates the selection of times in your applications
