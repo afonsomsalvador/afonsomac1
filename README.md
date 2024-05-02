@@ -45,19 +45,17 @@ If you want to support my work, you can follow or contact me:
 <a href="https://medium.com/@afonsomsalvador" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>     <a href="https://www.youtube.com/channel/UCgd367m7sEYzxoCxZ0l-IIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>     <a href="https://www.linkedin.com/in/afonso-salvador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     <a href = "mailto: afonso.macedo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+  
+## Github Stats <img alt="Stats GIF" src="https://media.tenor.com/images/18356ed09a7d70afb336939d5f34b572/tenor.gif" width="25">
 
-## **Languages and tools:**  
+<p style="text-align: left;">
+  <img src="https://github-readme-stats.vercel.app/api?username=afonsomsalvador&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" height="185em">
+    &nbsp
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomsalvador&layout=compact&theme=github_dark&langs_count=15" alt="Top Languages" height="185em">
+</p>
+
+## Languages and tools:  
 [![My Skills](https://skillicons.dev/icons?i=react,vue,html,js,css,redux,mysql,c,cs,dotnet,java,ts,firebase,git,androidstudio,bitbucket,azure,figma,github,npm,postman,visualstudio,vscode,wordpress)](https://skillicons.dev)
-
-## Github Stats
-
-<div style="flex-direction: row">
-<img src="https://github-readme-stats.vercel.app/api?username=afonsomsalvador&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" style="width: 400px; display: inline-block;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomsalvador&layout=compact&theme=github_dark&langs_count=15" alt="Top Languages" style="height: 170px; width: 400px; display: inline-block;">
-</div>
-
-
-</div>
 
 ## Latest Medium Posts
 
@@ -71,6 +69,10 @@ If you want to support my work, you can follow or contact me:
     
   </tr>
 </table>
+
+</div>
+
+
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
   
