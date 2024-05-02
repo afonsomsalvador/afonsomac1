@@ -36,8 +36,11 @@ I am always open to new opportunities and collaborations. </br></br>Connect with
 Let's create the future with lines of code! ✨
 </br>
 </br>
+If you want to support my work, you can follow or contact me:
+</br>
+</br>
 
-<a href="https://www.linkedin.com/in/afonso-salvador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     <a href = "mailto: afonso.macedo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@afonsomsalvador" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>     <a href="https://www.youtube.com/channel/UCgd367m7sEYzxoCxZ0l-IIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>     <a href="https://www.linkedin.com/in/afonso-salvador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     <a href = "mailto: afonso.macedo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
