@@ -54,7 +54,7 @@ If you want to support my work, you can follow or contact me:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomsalvador&layout=compact&theme=github_dark&langs_count=15" alt="Top Languages" height="185em">
 </p>
 
-## Languages and tools:  
+## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=react,vue,html,js,css,redux,mysql,c,cs,dotnet,java,ts,firebase,git,androidstudio,bitbucket,azure,figma,github,npm,postman,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 ## Latest Medium Posts
