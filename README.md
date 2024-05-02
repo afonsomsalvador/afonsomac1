@@ -3,6 +3,7 @@
 🌟 Welcome to my GitHub profile!
 </br>
 </br>
+
 💻 I have a particular passion for mobile app development using React Native.</br>
 🚀 I am looking for new collaboration opportunities and interesting projects to contribute.</br>
 🌟 I have skills in Typescript, React Native, Redux, CSS, HTML, Git, among others...</br>
@@ -23,6 +24,7 @@ const afonsoSalvador: Profile = {
 
 export default afonsoSalvador;
 ```
+![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic&abbreviated=true)
 
 </br>
 On my GitHub profile, you can find a collection of projects ranging from mobile apps to reusable libraries and components. I'm always exploring new technologies and best practices to enhance my skills.
