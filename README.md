@@ -55,7 +55,7 @@ If you want to support my work, you can follow or contact me:
 </p>
 
 ## Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=react,vue,html,js,css,redux,graphql,mysql,c,cs,dotnet,java,ts,firebase,git,androidstudio,bitbucket,azure,figma,github,npm,postman,visualstudio,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,html,js,css,redux,graphql,mysql,c,cs,dotnet,java,ts,firebase,git,androidstudio,bitbucket,azure,figma,github,npm,postman,visualstudio,vscode,wordpress,nextjs)](https://skillicons.dev)
 
 ## Latest Medium Posts
 
