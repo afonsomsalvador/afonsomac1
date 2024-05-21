@@ -66,7 +66,12 @@ If you want to support my work, you can follow or contact me:
         <img src="https://github.com/afonsomsalvador/afonsomsalvador/assets/58223413/bb44d5ea-3d3d-49aa-9055-cadb6385144a" alt="Next Level For Your GitHub Profile" style="width:200px;height:200px;">
       </a>
     </td>
-    
+    <td align="center">
+      <a href="https://medium.com/@afonsomsalvador/strategies-for-organizing-and-structuring-code-focused-on-react-native-typescript-80691a1c3332">
+        <img src="https://github.com/afonsomsalvador/afonsomsalvador/assets/58223413/f3b4e2b3-14b2-4230-9f21-88ad050fa4d2" alt="Strategies for Organizing and Structuring Code Focused on React Native (Typescript)" style="width:200px;height:200px;">
+      </a>
+    </td>
+
   </tr>
 </table>
 
