@@ -55,7 +55,7 @@ If you want to support my work, you can follow or contact me:
 </p>
 
 ## Languages and tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="25">
-[![My Skills](https://skillicons.dev/icons?i=react,vue,html,js,css,redux,graphql,mysql,c,cs,dotnet,java,ts,firebase,git,androidstudio,bitbucket,azure,figma,github,npm,postman,visualstudio,vscode,wordpress,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,html,js,css,redux,graphql,mysql,c,cs,dotnet,java,ts,firebase,git,androidstudio,bitbucket,azure,figma,github,npm,postman,visualstudio,vscode,wordpress,nextjs,tailwind)](https://skillicons.dev)
 
 ## Latest Medium Posts <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />
 
